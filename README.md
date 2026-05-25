@@ -3,7 +3,8 @@
 
 <image-card alt="AgriTech Cattle Farm Manager Banner" src="URL_PLACEHOLDER_1" ></image-card>
 
-**[UI SCREENSHOT INSTRUCTION]:** Compile and execute the application executable. Run through the registration flow, authenticate as an `Owner`, navigate to the main dashboard, select the animal asset metrics overview to display the data records, and capture a crisp high-resolution snapshot of your console window. Replace this placeholder with your direct image URL.
+<img width="1365" height="346" alt="image" src="https://github.com/user-attachments/assets/63446d5c-0171-4ff8-aa1c-afe1dce3d892" />
+<img width="1365" height="343" alt="image" src="https://github.com/user-attachments/assets/c95029da-8036-4207-898e-6c5144d180ce" />
 
 ## 1. Executive Overview
 
