@@ -28,7 +28,7 @@ This platform addresses these operational liabilities by deploying a deeply deco
      │   3. FinanceManager ──► [Encapsulated Income/Expense Streams]│
      └─────────────────────────────────────────────────────────────┘
      
-Key Technical Innovations
+# Key Technical Innovations
 
 Polymorphic Domain Asset Hierarchy: Implements a deeply structured inheritance tree diverging from a root Animal base class into context-specific extensions (Cow, Bull, Calf, MeatAnimal). Specialized behavioral characteristics—such as milk volumes, breeding success rates, growth trends, and generational parent vectors—are securely bound through class definitions and protected access control.
 
@@ -38,7 +38,7 @@ Deterministic File-Stream Caching Engine: Employs an explicit serialization matr
 
 Type-Safe Operator Overloading: Extends core language mechanics through the definition of custom assignment operators (operator=) inside domain classes. This mitigates pointer fragmentation risks and ensures smooth, shallow-copy block replication across memory tracking arrays without performance loss.
 
-3. Technology Stack & Ecosystem
+## 3. Technology Stack & Ecosystem
 
 Core Systems Language: ISO C++11 Framework — Utilizes object-oriented principles, custom class structures, input-output streaming libraries (<fstream>, <sstream>), and typed arrays to achieve memory-efficient resource management.
 
@@ -46,7 +46,7 @@ Data Layer Logic: Comma-Separated Values (CSV) Persistent Storage Engine — Fac
 
 Interface Architecture: High-Visibility ANSI Console System — Hooks into native CLI properties to construct responsive user menus, data tables, and input verification routines.
 
-4. Deep-Dive Implementation Analysis
+## 4. Deep-Dive Implementation Analysis
 
 Polymorphic Copy and State Replication
 The codebase manages resource duplication safely by overloading the assignment assignment operator across domain classes, ensuring that complex objects can be copied smoothly without causing pointer overlap or memory leaks.
@@ -77,7 +77,7 @@ Input-String Title Processing: Standardizes input strings by converting characte
 
 [LOGIC / FEATURE GIF INSTRUCTION]: Record a 5–10 second GIF showcasing the application flow. Register a new asset entry, demonstrate validation error triggers on incorrect text formats, execute an animal information edit, and show the file database updating immediately on save. Replace this placeholder with your direct GIF URL.
 
-5. Deployment & Quickstart Guide
+## 5. Deployment & Quickstart Guide
 Prerequisites
 Operating System: Cross-platform compatibility (Windows, Linux, or macOS terminal setups).
 
