@@ -5,6 +5,7 @@
 
 <img width="1365" height="346" alt="image" src="https://github.com/user-attachments/assets/63446d5c-0171-4ff8-aa1c-afe1dce3d892" />
 <img width="1365" height="343" alt="image" src="https://github.com/user-attachments/assets/c95029da-8036-4207-898e-6c5144d180ce" />
+<img width="865" height="289" alt="image" src="https://github.com/user-attachments/assets/43c1a0f0-4a53-4f85-a46d-ec2b7feabebe" />
 
 ## 1. Executive Overview
 
