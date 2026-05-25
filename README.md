@@ -28,7 +28,7 @@ This platform addresses these operational liabilities by deploying a deeply deco
      │   3. FinanceManager ──► [Encapsulated Income/Expense Streams]│
      └─────────────────────────────────────────────────────────────┘
      
-# Key Technical Innovations
+## Key Technical Innovations
 
 Polymorphic Domain Asset Hierarchy: Implements a deeply structured inheritance tree diverging from a root Animal base class into context-specific extensions (Cow, Bull, Calf, MeatAnimal). Specialized behavioral characteristics—such as milk volumes, breeding success rates, growth trends, and generational parent vectors—are securely bound through class definitions and protected access control.
 
@@ -85,12 +85,12 @@ Compiler Toolchain: Modern GCC, Clang, or MSVC installation supporting C++11 wor
 
 Installation & Execution Steps
 Bash
-# 1. Clone the project repository asset
+### 1. Clone the project repository asset
 git clone [https://github.com/username/agritech-cattle-farm-manager.git](https://github.com/username/agritech-cattle-farm-manager.git)
 cd agritech-cattle-farm-manager
 
-# 2. Compile the source codebase optimizing for stable performance pipelines
+### 2. Compile the source codebase optimizing for stable performance pipelines
 g++ -std=c++11 main.cpp -o farmmanager.exe
 
-# 3. Launch your production AgriTech terminal application environment
+### 3. Launch your production AgriTech terminal application environment
 ./farmmanager.exe
