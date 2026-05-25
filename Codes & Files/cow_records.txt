@@ -1,0 +1,5 @@
+101 Bessie Female 5 Healthy 23.5 Angus 2022-03-15 2022-05-01 2022-05-22
+102 Daisy Female 4 Healthy 18.0 Holstein 2022-04-10 2022-05-05 2022-05-26
+103 Molly Female 6 Sick 12.2 Jersey 2022-02-20 2022-04-15 2022-05-06
+104 Bella Female 3 Healthy 20.0 Guernsey 2022-05-01 2022-06-01 2022-06-22
+105 Rosie Female 4 Healthy 25.0 Angus 2022-03-25 2022-05-10 2022-05-31

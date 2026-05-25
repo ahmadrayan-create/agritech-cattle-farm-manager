@@ -1,0 +1,5 @@
+201 Max Male 8 Healthy 80 90
+202 Rocky Male 6 Healthy 77 88
+203 Bruno Male 9 Healthy 34 66
+204 Leo Male 11 Sick 23 24
+205 Bruno Male 10 Healthy 69 87

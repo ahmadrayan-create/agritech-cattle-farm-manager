@@ -1,0 +1,4 @@
+401 Beefy Male 3 Healthy 0.8 350 500 187.5
+402 Rocky Male 6 Healthy 0.6 200 300 166.667
+403 Jame Male 5 Healthy 0.9 400 450 55.5556
+404 Teddy Male 5 Healthy 0.75 350 450 133.333
